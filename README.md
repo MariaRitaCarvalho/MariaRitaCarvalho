@@ -22,20 +22,19 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 
 # 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-  
+
 # 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaRitaCarvalho&theme=github_dark&show_icons=true)</br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaRitaCarvalho&theme=github-dark-blue&hide_border=)
-<div>
-<a href="https://github.com/MariaRitaCarvalho">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaCarvalho&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaRitaCarvalho&theme=github_dark&show_icons=true) </br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaRitaCarvalho&theme=github-dark-blue&hide_border=) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaCarvalho&layout=compact&langs_count=7&theme=github_dark)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MariaRitaCarvalho&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=MariaRitaCarvalho&label=Profile%20Views&color=1&icon=0&pretty=false)
