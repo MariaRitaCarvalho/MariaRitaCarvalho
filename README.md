@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Larguei o ensino médio técnico em edificações no último ano, para embalar no área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI.
+Larguei o ensino médio técnico em edificações no último ano, para embalar na área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI.
 
 **Atualmente:** Estudando Kotlin, me familiarizando com Git e GitHub, vendo um pouco da IDE Android Studio, expert em celulares...
 
@@ -11,13 +11,13 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 
 <a href="mailto:mariaritalimacarvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <a href="www.linkedin.com/in/mritacarvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-<a href="https://wa.me/+5586994068567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
+<a href="https://wa.me/+5586994068567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
   
 # 🌐 Redes Sociais:
 
 <a href="https://www.instagram.com/ritaawxz_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-<a href="https://twitter.com/ritaawxz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+<a href="https://twitter.com/ritaawxz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 
 
 # 💻 Tech Stack:
