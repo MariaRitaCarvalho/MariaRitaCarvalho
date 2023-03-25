@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Larguei o ensino médio técnico em edificações no último ano, para embalar no ramo de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI.
+Larguei o ensino médio técnico em edificações no último ano, para embalar no área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI.
 
 **Atualmente:** Estudando Kotlin, me familiarizando com Git e GitHub, vendo um pouco da IDE Android Studio, expert em celulares...
 
