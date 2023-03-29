@@ -32,6 +32,7 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 # 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaRitaCarvalho&theme=github_dark&show_icons=true) </br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaRitaCarvalho&theme=github-dark-blue) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaCarvalho&layout=compact&langs_count=7&theme=github_dark)
 
 
