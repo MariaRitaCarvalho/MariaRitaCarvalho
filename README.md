@@ -2,7 +2,7 @@
 
 Larguei o ensino médio técnico em edificações no último ano, para embalar na área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI...
 
-**Atualmente:** Estudando Kotlin, me familiarizando com Git e GitHub, vendo um pouco da IDE Android Studio, expert em celulares.
+**Atualmente:** Estudando Kotlin e utilizando a IDE IntelliJ IDEA, me familiarizando com Git e GitHub, vendo um pouco da IDE Android Studio, expert em celulares.
 
 **Estudando:** POO com Kotlin.
 
@@ -24,6 +24,7 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
