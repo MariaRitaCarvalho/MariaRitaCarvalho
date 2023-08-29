@@ -2,8 +2,7 @@
 
 Larguei o ensino médio técnico em edificações no último ano, para embalar na área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI...
 
-**Atualmente:** Estudando Kotlin e utilizando a IDE IntelliJ IDEA, me familiarizando com Git e GitHub, vendo um pouco da IDE Android Studio, expert em celulares.
-
+**Atualmente:** Estudando Kotlin e utilizando a IDE Android Studio, me familiarizando com Git e GitHub.
 **Estudando:** POO com Kotlin.
 
 
