@@ -4,7 +4,7 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 
 **Atualmente:** Estudando Kotlin e utilizando a IDE IntelliJ, me familiarizando com Git e GitHub.
 
-**Estudando:** [Este curso.](https://www.udemy.com/course/curso-desenvolvedor-kotlin/)
+**Estudando:** [Este curso](https://www.udemy.com/course/curso-desenvolvedor-kotlin/).
 
 
 # 📧 Contato:
