@@ -17,7 +17,6 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 # 🌐 Redes Sociais:
 
 <a href="https://www.instagram.com/ritasayshelloworld/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-<a href="https://twitter.com/ritaawxz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 
 
 # 💻 Tech Stack:
